@@ -35,22 +35,12 @@
 * Run server `[SpringBootResourceServerApplication.java]`
 * Run client `[SpringBootFormHandingApplication.java]`
 
-### Check the images attached here
+### Look like attached image
 
 ![](img/1.jpg)
 
-<p align="center">
-  <img width="700" align="center" src="https://github.com/amitesh786/sprint-boot-oauth2/tree/master/img/1.jpg" alt="demo"/>
-</p>
+![](img/2.jpg)
 
-<p align="center">
-  <img width="700" align="center" src="https://github.com/amitesh786/sprint-boot-oauth2/tree/master/img/2.jpg" alt="demo"/>
-</p>
+![](img/3.jpg)
 
-<p align="center">
-  <img width="700" align="center" src="https://github.com/amitesh786/sprint-boot-oauth2/tree/master/img/3.jpg" alt="demo"/>
-</p>
-
-<p align="center">
-  <img width="700" align="center" src="https://github.com/amitesh786/sprint-boot-oauth2/tree/master/img/4.jpg" alt="demo"/>
-</p>
+![](img/4.jpg)
