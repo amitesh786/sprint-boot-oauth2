@@ -37,6 +37,8 @@
 
 ### Check the images attached here
 
+![](img/1.jpg)
+
 <p align="center">
   <img width="700" align="center" src="https://github.com/amitesh786/sprint-boot-oauth2/tree/master/img/1.jpg" alt="demo"/>
 </p>
