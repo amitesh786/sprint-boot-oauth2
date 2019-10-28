@@ -21,14 +21,32 @@
 * Create the Controller class with the getEmployeeInfo method which returns a jsp page.
 
 * Create a application.properties file
-- spring.mvc.view.prefix:/WEB-INF/jsp/
-- spring.mvc.view.suffix:.jsp
-- server.port:8090
+`[ * spring.mvc.view.prefix:/WEB-INF/jsp/ * spring.mvc.view.suffix:.jsp * server.port:8090 ]`
 
 * At last create the Spring Boot Bootstrap class with SpringBootApplication annotation.
 
 * Create the getEmployees.jsp using which we will POST a request to /authorize in form encoded url format.
 
+### Getting the Access Token
+
+* For getting the access token from the resource server the changes are only required at the client application end.
+
+### Using the Access Token to get the JSON data
+
+#### Resource Server Changes
+
+* Resource Server module class allows any request with valid access token and scope to get the requested resource.
+
+* Create a application.properties file
+`[ * security.oauth2.resource.filter-order = 3 ]`
+
+#### Client Application Changes
+
+* Domain class Employee in the client application, similar to the resource server module.
+
+* Client application using the access token as validation call the url to get the JSON data.
+
+* Define the jsp named showEmployees to display the Employee info recieved.
 
 ### Run the Server and Client Application
 

@@ -1,5 +1,6 @@
 com\javainuse\config\AuthorizationServerConfig.class
+com\javainuse\SpringBootResourceServerApplication.class
+com\javainuse\config\ResourceServer.class
 com\javainuse\controllers\EmployeeController.class
 com\javainuse\config\EmployeeSecurityConfiguration.class
 com\javainuse\model\Employee.class
-com\javainuse\SpringBootResourceServerApplication.class
