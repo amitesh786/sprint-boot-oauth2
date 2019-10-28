@@ -7,3 +7,11 @@ boot-resource-server/.settings
 boot-client-oaut-app/.classpath
 boot-client-oaut-app/.project
 boot-client-oaut-app/.settings
+
+boot-resource-server/.classpath
+boot-resource-server/.project
+boot-resource-server/.settings
+
+boot-client-oaut-app/.classpath
+boot-client-oaut-app/.project
+boot-client-oaut-app/.settings
