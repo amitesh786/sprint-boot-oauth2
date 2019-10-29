@@ -3,15 +3,19 @@
 boot-resource-server/.classpath
 boot-resource-server/.project
 boot-resource-server/.settings
+boot-resource-server/target
 
 boot-client-oaut-app/.classpath
 boot-client-oaut-app/.project
 boot-client-oaut-app/.settings
+boot-client-oaut-app/target
 
 boot-oauth2-auth-server/.classpath
 boot-oauth2-auth-server/.project
 boot-oauth2-auth-server/.settings
+boot-oauth2-auth-server/target
 
 boot-oauth2-resource-server/.classpath
 boot-oauth2-resource-server/.project
 boot-oauth2-resource-server/.settings
+boot-oauth2-resource-server/target
