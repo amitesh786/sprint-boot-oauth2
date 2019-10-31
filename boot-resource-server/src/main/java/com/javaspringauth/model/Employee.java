@@ -1,4 +1,4 @@
-package com.javainuse.model;
+package com.javaspringauth.model;
 
 public class Employee {
 
