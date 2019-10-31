@@ -1,4 +1,4 @@
-package com.javainuse.controller;
+package com.javaspringauth.controller;
 
 import org.springframework.social.connect.Connection;
 import org.springframework.social.facebook.api.Facebook;
